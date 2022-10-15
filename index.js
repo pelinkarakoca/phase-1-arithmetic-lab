@@ -1,12 +1,12 @@
 
 // Write your code here
 //For first test: Multipliying 
-const num1 = 22;
-const num2 = 40;
-const multiply = num1 + num2;
+const num1 = 31;
+const num2 = 2;
+const multiply = num1 * num2;
 
 //Second test: Random number generator
-const random = Math.round(Math.random() * 10);
+const random = Math.round(Math.random() * 10) + 1;
 
 //Third test: Mod
 const num3 = 14;
